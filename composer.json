@@ -1,0 +1,16 @@
+{
+    "name": "mazakar/php-project",
+    "description": "PHP Project",
+    "type": "project",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "echo \"No tests specified\" && exit 0"
+    }
+}
