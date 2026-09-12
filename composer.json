@@ -2,6 +2,7 @@
     "name": "mazakar/php-project",
     "description": "PHP Project",
     "type": "project",
+    "license": "MIT",
     "require": {
         "php": "^8.2"
     },
